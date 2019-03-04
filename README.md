@@ -1,6 +1,6 @@
 # dsc2tiff
 
-File format extraction tool for the properietary DSC format from DECOS.
+File format extraction tool for the proprietary DSC format from DECOS.
 
 Will produce tiff files.
 
